@@ -1,0 +1,5 @@
+{
+    "express": {
+        "src":"https://github.com/danielfsousa/express-rest-boilerplate.git" 
+    }
+}

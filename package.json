@@ -1,0 +1,24 @@
+{
+  "name": "boil",
+  "version": "1.0.0",
+  "description": "Boilerplate code generator",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hadaytullah/boiler.git"
+  },
+  "author": "Hadaytullah Kundi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hadaytullah/boiler/issues"
+  },
+  "homepage": "https://github.com/hadaytullah/boiler#readme",
+  "dependencies": {
+    "simple-git": "^2.21.0",
+    "yargs": "^16.1.0"
+  }
+}
